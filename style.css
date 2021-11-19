@@ -1,0 +1,31 @@
+body{
+    background-color:dodgerblue;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center; 
+}
+
+form{
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    margin: 0 auto; 
+    width:250px;
+    margin-top: 130px;
+ }
+
+
+ label{
+     margin-bottom: 5px;
+     margin-top: 5px;
+ }
+
+ .btn{
+     color: blue;
+ }
+
+ .btn:hover{
+    color: rgb(0, 255, 0);
+}
